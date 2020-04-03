@@ -57,4 +57,9 @@ FROM users
 GROUP BY provider; 
 
 
+SELECT email LIKE 'rere%' FROM users;
 
+SELECT email FROM users WHERE email LIKE 'rere%';
+
+
+SELECT * FROM users;
