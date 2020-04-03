@@ -1,2 +1,5 @@
 # join-us-sql
-JOIN US - SQL COLT BOOTCAMP PROJECT
+
+Join US Project, from The Ultimate MySQL Bootcam: Go from SQL Beginner to Expert, from Colt. 
+
+Final project
